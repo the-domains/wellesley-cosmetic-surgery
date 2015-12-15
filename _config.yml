@@ -1,7 +1,7 @@
 name: Wellesley Cosmetic Surgery
 favicon: null
-layout_spectrum: 0.8864929964765906
-typography_spectrum: 0.019249173579737544
+layout_spectrum: 0.74143
+typography_spectrum: 0.99478
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#1860ac'
+    - '#bcd0dc'
+    - '#868a7b'
+    - '#f9fefe'
+    - '#000200'
   brandStrength: 0.8440590868704021
   lightness: 0.4255840783007443
   saturation: 0.9114147326909006
